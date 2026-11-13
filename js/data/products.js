@@ -5,7 +5,7 @@ export const products = [
         image: "/assets/productsImage/productimg1.jpg",
         amount: 1000,
         discount: 64,
-        detailsLink: "", 
+        detailsLink: "https://auctionr.org/4/b0d8364fcd2dbb904a88cbec68a875e6", 
         orderLink: "https://s.daraz.com.bd/s.Y6kik?cc",
         category: "shoe",
         code: "$du589$"

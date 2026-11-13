@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="125.94464mm"
+   height="32.315147mm"
+   viewBox="0 0 125.94464 32.315147"
+   version="1.1"
+   id="svg1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="125.94464"
+       height="32.315147"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-43.194274,-113.29444)">
+    <g
+       id="text2"
+       style="opacity:1"
+       transform="matrix(1.294175,0,0,1.9554721,4.9664655,-59.014608)">
+      <path
+         style="font-weight:bold;font-size:19.05px;line-height:5.6;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#ff0000;fill-opacity:0.968912;stroke-linecap:round;paint-order:fill markers stroke;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+         d="m 29.538362,103.1563 12.82887,-3.453701 c 0.161231,0.899171 0.486792,1.559591 0.976685,1.981271 0.496094,0.42168 1.16272,0.63252 1.999878,0.63252 0.886767,0 1.553393,-0.18603 1.999878,-0.5581 0.452685,-0.37827 0.679028,-0.81856 0.679028,-1.32085 0,-0.32246 -0.09612,-0.595315 -0.288355,-0.818557 -0.186035,-0.229443 -0.514697,-0.427881 -0.985986,-0.595313 -0.322461,-0.111621 -1.057299,-0.310058 -2.204516,-0.595312 -1.475879,-0.365869 -2.511475,-0.815454 -3.106787,-1.348755 -0.837159,-0.750341 -1.255738,-1.665014 -1.255738,-2.744018 0,-0.694531 0.195337,-1.342554 0.586011,-1.944068 0.396875,-0.607715 0.964283,-1.069702 1.702222,-1.385961 0.744141,-0.31626 1.64021,-0.47439 2.688208,-0.47439 1.711523,0 8.586448,-3.046165 9.448411,-2.295823 0.868164,0.750341 -4.264232,5.173166 -4.220824,6.425803 l -2.75332,0.120923 c -0.117822,-0.700733 -0.37207,-1.203028 -0.762744,-1.506885 -0.384473,-0.310059 -0.964282,-0.465088 -1.739429,-0.465088 -0.799951,0 -1.426269,0.164331 -1.878955,0.492994 -0.291455,0.210839 -0.437182,0.492993 -0.437182,0.84646 0,0.322461 0.136426,0.598413 0.409277,0.827856 0.347265,0.291455 1.988936,0.595313 3.32839,0.911572 1.339453,0.31626 1.530228,0.644922 2.168949,0.985986 0.644921,0.334863 1.147216,0.796851 1.506884,1.385962 0.365869,0.582911 0.548804,1.305349 0.548804,2.167314 0,0.78135 -0.217041,1.51308 -0.651123,2.19521 -0.434082,0.68213 -1.047998,1.19062 -1.841748,1.52549 -0.79375,0.32866 -1.782837,0.49299 -2.967261,0.49299 -1.723925,0 -3.047875,-0.39687 -3.97185,-1.19062 -0.923975,-0.79995 -11.625843,1.23058 -11.805677,-0.29491 z m 18.221609,0.67347 6.386494,-12.724026 1.652505,-0.342134 5.581055,9.10642 v -9.10642 l 13.620304,3.535381 -11.062321,10.100999 h -2.762622 l -5.497339,-8.892484 -7.184806,8.436304 z"
+         id="path2"
+         sodipodi:nodetypes="cccscsccccsccsccccscscsccsscsccccccccccccc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:18.3882px;line-height:5.6;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#ff0000;fill-opacity:0.968912;stroke:#3beb4e;stroke-width:0.386104;stroke-linecap:round;stroke-opacity:0.917563;paint-order:fill markers stroke"
+       x="135.42798"
+       y="107.35287"
+       id="text4"
+       transform="scale(0.76438797,1.3082362)"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="fill:#0000ff;stroke-width:0.386104"
+         x="135.42798"
+         y="107.35287">ShopNest</tspan></text>
+  </g>
+</svg>

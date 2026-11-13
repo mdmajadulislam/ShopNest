@@ -1,0 +1,21 @@
+:root{
+    background: #fdffff;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: var(--backgrond);
+}
+
+/*--=============== main =======================--*/
+.main{
+    padding: 10px;
+    padding-top: 4rem;
+    height: auto;
+    overflow: hidden;
+}

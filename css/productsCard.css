@@ -1,0 +1,119 @@
+/* product card.css*/
+.products-section{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+}
+
+.cards{
+    width: 300px;
+    min-width: 100%;
+    height: auto;
+    background: #ddd;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+/*product img */
+.card-img-box{
+    width: 300px;
+    height: 200px;
+    min-width: 100%;
+}
+.card-img-box img{
+    width: 300px;
+    height: 200px;
+    min-width: 100%;
+}
+
+/* product-amout */
+.card-amount-box{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+.card-amount-box p{
+    font-weight: bold;
+    font-size: 20px;
+    color: red;
+}
+.card-amount-box p del{
+    font-weight: lighter;
+    font-size: 16px;
+    color: gray;
+}
+
+/*products heading */
+.card-heading-box{
+    width: 100%;
+    display: flex;
+    padding: 10px;
+}
+.card-heading-box h1{
+    font-size: 20px;
+    font-weight: bold;
+    color: #000;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+}
+
+/*button card */
+.card-button-box{
+    width: 100%;
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+}
+
+.card-button-box button{
+    border: 1px solid #000;
+    border-radius: 8px;
+    padding: 5px 10px;
+    background: #5c5c5c;
+    font-size: 16px;
+    font-weight: bold;
+    color: blue;
+}
+.card-button-box button:hover, .card-button-box button:active{
+    background: blue;
+    color: #fff;
+}
+.card-button-box button a{
+    text-decoration: none;
+    color: #fff;
+}
+
+/* categori box */
+.card-span-box{
+    display: flex;
+    justify-content: space-between;
+    gap: 5px;
+    width: 100%;
+    padding: 10px;
+    background: #000;
+}
+.card-span-box span, code{
+    color: #fff;
+    font-size: 14px;
+
+}
+
+@media(max-width: 1280px){
+    .products-section{
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+@media(max-width: 960px){
+    .products-section{
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+}
+@media(max-width: 670px){
+    .products-section{
+        grid-template-columns: repeat(1, 1fr);
+    }
+}

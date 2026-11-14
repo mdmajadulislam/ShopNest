@@ -6,5 +6,5 @@ const productsSection = document.getElementById("productsSection");
 products.forEach(product => {
     productsSection.innerHTML += productsCard(product);
 });
-
+alert("Hi Ps developer group");
 

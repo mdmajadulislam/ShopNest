@@ -2,7 +2,7 @@ export const products = [
     {
         id: 1,
         name: "Lightweight and Breathable - Sneakers for Men - Casual Shoes for Walking - Shoe For Boys - Stay Comfortable",
-        image: "/assets/productsImage/productimg1.jpg",
+        image: "../assets/productsImage/productimg1.jpg",
         amount: 1000,
         discount: 64,
         detailsLink: "https://auctionr.org/4/b0d8364fcd2dbb904a88cbec68a875e6", 

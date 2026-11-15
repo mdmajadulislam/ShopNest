@@ -10,6 +10,8 @@
 
 body{
     background: var(--backgrond);
+    overflow-x: hidden;
+    box-sizing: border-box;
 }
 
 /*--=============== main =======================--*/
@@ -18,4 +20,55 @@ body{
     padding-top: 4rem;
     height: auto;
     overflow: hidden;
+    z-index: 2;
+}
+
+.menu-contier{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    position: fixed;
+    justify-content: flex-end;
+    padding-top: 3.1rem;
+    background: transparent;
+    inset: 0;
+    z-index: 10;
+    pointer-events: none;
+    box-sizing: border-box;
+    display: none;
+}
+.menu-contier #menu{
+    width: 300px;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    pointer-events: auto;
+    padding: 10px;
+}
+.menu-contier #menu button{
+    background: none;
+    border: none;
+    outline: none;
+    width: 100%;
+    display: inline-block;
+    padding-top: 5px;
+}
+.menu-contier #menu button a{
+    color: #ffff;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+}
+.menu-contier #menu button a:hover{
+    color: blue;
+    text-decoration: underline;
+}
+
+/*-----search section ------*/
+.search-section{
+    display: none;
+    width: 100%;
+    height: auto;
+    background: #ffffff;
 }

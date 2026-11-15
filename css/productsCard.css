@@ -117,3 +117,17 @@
         grid-template-columns: repeat(1, 1fr);
     }
 }
+
+/*seach products */
+.search-section .cards{
+    width: 100%;
+    height: 70vh;
+}
+.search-section .cards .card-img-box{
+    width: 100%;
+    height: 60vh;
+}
+.search-section .cards .card-img-box img{
+    width: 100%;
+    height: 60vh;
+}

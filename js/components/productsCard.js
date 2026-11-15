@@ -6,7 +6,7 @@ export function productsCard({ name, image, amount, discount, detailsLink, order
             </div>
 
             <div class="card-amount-box">
-                <p>৳${amount - int(amount * discount / 100)}</p>
+                <p>৳${amount - (amount * discount / 100)}</p>
                 <p><del>৳${amount}</del></p>
                 <p>-${discount}%</p>
             </div>

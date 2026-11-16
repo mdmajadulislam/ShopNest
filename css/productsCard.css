@@ -95,7 +95,7 @@
     padding: 10px;
     background: #000;
 }
-.card-span-box span, code{
+.card-span-box span, .card-span-box code, .card-span-box a{
     color: #fff;
     font-size: 14px;
 

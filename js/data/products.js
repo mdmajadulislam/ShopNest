@@ -137,7 +137,7 @@ export const products = [
         discount: 62,
         detailsLink: "https://s.daraz.com.bd/s.Yh77p?cc",
         orderLink: "https://s.daraz.com.bd/s.Yh77p?cc",
-        caregory: 'Headphones',
+        category: 'Headphones',
         ad: "https://auctionr.org/4/5bd47f11b951af6932b61e3519c2d7de",//Smartlink_3
         code: "$dusfx$"
     },
@@ -150,7 +150,7 @@ export const products = [
         discount: 54,
         detailsLink: "https://s.daraz.com.bd/s.Yh7jR?cc",
         orderLink: "https://s.daraz.com.bd/s.Yh7jR?cc",
-        caregory: "Headphones",
+        category: "Headphones",
         ad: "https://asiafilm.org/4/637ac60ff4a5de8e6f92a8ce63f96b1a", //Smartlink_2
         code: "$dus58$"
     },
@@ -158,12 +158,12 @@ export const products = [
     {
         id: 13,
         name: "M27 TWS Wireless Earphones Bluetooth5.3 Stereo Headphones Sport Waterproof Earbuds Headset Charging Box With Mic",
-        image: "/assets/productsImage/productsImage13.png",
+        image: "../assets/productsImage/productsImage13.png",
         amount: 486,
         discount: 41,
         detailsLink: "https://s.daraz.com.bd/s.Yh79v?cc",
         orderLink: "https://s.daraz.com.bd/s.Yh79v?cc",
-        caregory: "Headphones",
+        category: "Headphones",
         ad: "https://auctionr.org/4/b0d8364fcd2dbb904a88cbec68a875e6", //Smartlink_1
         code: "$dus5s$"
     }

@@ -44,6 +44,7 @@ export const products = [
         detailsLink: "https://s.daraz.com.bd/s.Y6kGY?cc", 
         orderLink: "https://s.daraz.com.bd/s.Y6kGY?cc",
         category: "shoe",
+        ad: 'https://uplcm.com/4/12275648',
         code: "$du5ko$"
     },
 
@@ -56,6 +57,7 @@ export const products = [
         detailsLink: "https://s.daraz.com.bd/s.Y6kvl?cc", 
         orderLink: "https://s.daraz.com.bd/s.Y6kvl?cc",
         category: "t-shirt",
+        ad: "https://uplcm.com/4/12275619",
         code: "$du5ma$"
     },
 
@@ -68,6 +70,7 @@ export const products = [
         detailsLink: "https://s.daraz.com.bd/s.Y6kx3?cc", 
         orderLink: "https://s.daraz.com.bd/s.Y6kx3?cc",
         category: "clock",
+        ad: "https://uplcm.com/4/12275619",
         code: "$du5m6$"
     },
 
@@ -80,6 +83,7 @@ export const products = [
         detailsLink: "https://s.daraz.com.bd/s.Y6kyB?cc", 
         orderLink: "https://s.daraz.com.bd/s.Y6kyB?cc",
         category: "glass",
+        ad: "https://uplcm.com/4/12275619",
         code: "$du5mp$"
     },
 
@@ -92,6 +96,7 @@ export const products = [
         detailsLink: "https://s.daraz.com.bd/s.Y6kzN?cc", 
         orderLink: "https://s.daraz.com.bd/s.Y6kzN?cc",
         category: "pad",
+        ad: "https://uplcm.com/4/12275647",
         code: "$du5my$"
     },
 
@@ -104,6 +109,7 @@ export const products = [
         detailsLink: "https://s.daraz.com.bd/s.Y6PaD?cc", 
         orderLink: "https://s.daraz.com.bd/s.Y6PaD?cc",
         category: "box",
+        ad: "https://uplcm.com/4/12275647",
         code: "$du5nh$"
     },
 
@@ -116,6 +122,7 @@ export const products = [
         detailsLink: "https://s.daraz.com.bd/s.Y6Pbz?cc", 
         orderLink: "https://s.daraz.com.bd/s.Y6Pbz?cc",
         category: "headphones",
+        ad: "https://uplcm.com/4/12275647",
         code: "$du5od$"
     }
 

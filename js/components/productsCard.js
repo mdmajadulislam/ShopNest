@@ -1,4 +1,4 @@
-export function productsCard({ name, image, amount, discount, detailsLink, orderLink, category, code }){
+export function productsCard({ name, image, amount, discount, detailsLink, orderLink, category, code, ad }){
     return`
         <artical class="cards">
             <div class="card-img-box">
@@ -20,7 +20,7 @@ export function productsCard({ name, image, amount, discount, detailsLink, order
                 <button type="button"><a href=${orderLink}>Order Now</a></button> 
             </div>
 
-            <p class="card-span-box"><span>${category}</span> | <code>${code}</code></p>
+            <p class="card-span-box"><span>${category}</span> | <a href={ad}>Ad</a> <code>${code}</code></p>
         </artical>
     `;
 };
